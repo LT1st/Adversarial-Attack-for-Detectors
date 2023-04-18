@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.64.50.69" id="0c5620ef-b6d2-4b8b-9c8a-4166161ca348" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="dgx" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="dgx" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
